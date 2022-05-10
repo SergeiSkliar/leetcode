@@ -17,7 +17,7 @@ public:
 // just for history - code below failed with
 // [9,72,34,29,-49,-22,-77,-17,-66,-75,-44,-30,-24] case
 
-class Solution {
+/*class Solution {
 public:
     int arraySign(vector<int>& nums) {
         long long product = 1;
@@ -32,3 +32,4 @@ public:
             return -1;
     }
 };
+*/
